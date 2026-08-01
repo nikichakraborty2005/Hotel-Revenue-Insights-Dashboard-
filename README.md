@@ -26,7 +26,7 @@ The objective of this project is to analyze hotel revenue trends and operational
 
 ## 📷 Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](Hospitality Dashboard.png)
 
 ---
 
